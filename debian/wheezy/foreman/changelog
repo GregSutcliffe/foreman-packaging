@@ -1,3 +1,10 @@
+foreman (1.3.99999-1) stable; urgency=low
+
+  * Attempt to switch to non-vendored gems
+  * Use non-native packaging format
+
+ -- Greg Sutcliffe <gsutclif@redhat.com>  Sun, 10 Nov 2013 17:00:16 +0000
+
 foreman (1.3.0-2) stable; urgency=low
 
   * Remove zero-length sqlite3 files from accidental inclusion in the package
